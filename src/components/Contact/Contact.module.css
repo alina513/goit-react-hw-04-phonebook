@@ -1,0 +1,16 @@
+.item {
+    font-size: 30px;
+    display: flex;
+    margin-bottom: 20px;
+
+    
+}
+
+.button {
+    margin-left: 30px;
+    min-height: 15px;
+    min-width: 100px;
+    display: block;
+    border: solid 1px black;
+    border-radius: 50px;
+}

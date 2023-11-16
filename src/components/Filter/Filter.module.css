@@ -1,0 +1,16 @@
+.filter{
+    display: block;
+}
+.label {
+    display: block;
+    margin-bottom: 20px;
+    color: blue;
+    font-size: 30px;
+}
+.input {
+    display: block;
+    border: 1px solid black;
+    border-radius: 50px;
+    min-height: 30px;
+    max-width: 200px;
+}

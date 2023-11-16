@@ -1,0 +1,32 @@
+.input {
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid 1px black;
+    border-radius: 50px;
+    display: block;
+   min-height: 30px;
+   min-width: 80px;
+   margin-bottom: 30px;
+}
+.input:hover,
+.input:focus {
+    color: blue;
+}
+.form {
+    display: block;
+}
+.label {
+    margin-left: 20px;
+  display: block; 
+  font-size: 30px;
+}
+.button {
+    min-height: 30px;
+    min-width: 200px;
+    background-color: aqua;
+    border-radius: 50px;
+    border: solid 1px blue;
+    margin-left: 10px;
+    font-weight: 600;
+    font-size: 20px;
+}
